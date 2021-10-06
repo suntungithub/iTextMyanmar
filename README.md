@@ -1,5 +1,5 @@
 # iTextMyanmar
-The library to extend the support for Myanmar language rendering for PDF using iText.
+The library to extend the support for Myanmar language rendering for PDF using iText.  
 iTextMyanmar is base on iTextKhmer written by Pongsametrey S. <metrey@osify.com> and mymr-pango shaping module, written Ko Tin Myo Htet
 
 Currently the library is supported with fonts: 

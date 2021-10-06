@@ -10,7 +10,7 @@ Currently the library is supported with fonts:
 
 # Sample Projects
 Please go to following links for sample project using this library:
-- https://github.com/
+- https://github.com/suntungithub/iTextMyanmarSample
 
 # Authors
 - Sun Tun <suntun.nlp@gmail.com> 
